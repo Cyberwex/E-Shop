@@ -1,6 +1,4 @@
-# e-shop
-This is my first e-commerce spring web app
-
+# E-shop
 # Description
 Welcome fellow developer! This is my e-shop project that i made for educational purposes. You're free to use it as you like.
 
